@@ -1,4 +1,4 @@
--e git+https://github.com/mrmiguetara/aima3@668b3d5c209a0ce89d3d7538fb66c684a02ebac3#egg=aima3
+-e git+https://github.com/mrmiguetara/aima3#egg=aima3
 anyio==3.6.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
